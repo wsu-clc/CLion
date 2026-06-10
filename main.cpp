@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << "This is a cloned repository" << std::endl;
-    std::cout << ">>> CHANGE ME <<<" << std::endl;
+    std::cout << "Hello world" << std::endl;
 
     return 0;
 }
